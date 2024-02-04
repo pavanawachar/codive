@@ -1,0 +1,262 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+}
+.navbar {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.S-nav > a {
+  padding-left: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+}
+.f-nav > h3 {
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+.f-nav {
+  display: flex;
+  align-items: center;
+  padding-left: 35px;
+}
+.Trd-nav {
+  display: flex;
+  justify-content: end;
+}
+
+.Trd-nav > img {
+  padding-left: 35px;
+}
+.Trd-nav:nth-child(3) {
+  padding-right: 55px;
+}
+
+.hero-section {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.hero-section > img {
+  width: 96%;
+  height: 600px;
+}
+.thrid-sec {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.thrid-sec > img {
+  height: 45px;
+  margin: 10px;
+}
+.eg2 {
+  display: flex;
+  justify-content: center;
+}
+.eg2 > h3 {
+  font-weight: 580;
+}
+.collection-button{
+    width: 60%;
+    
+   
+
+}
+.eg4>button{
+    width: 170px;
+ height: 60px;
+ margin-top: 20px;
+ margin-left: 40px;
+
+ font-weight: 590;
+ border-radius: 10px;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+ color:black;
+}
+.eg4{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 50%;
+}
+.eg4:nth-child(2){
+    color: white;
+
+}
+.card-section{
+    display: flex;
+    justify-content: center;
+   
+    margin-top: 20px;
+    justify-content: center;
+
+   
+
+}
+.card-one{
+    width: 26%;
+    height: 350px;
+     margin: 10px;
+    border-radius: 13px;
+    background-color: rgb(238, 232, 232)
+}
+.shart-card-a{
+    background-color: rgb(219, 139, 139);
+padding-top: 19px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+
+    
+}
+.shart-card-b{
+    background-color: rgb(219, 139, 139);
+    padding-top: 26px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+
+    
+}
+.shart-card-c{
+    background-color: rgb(219, 139, 139);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+
+}
+.button-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.poster{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 18px;
+}
+
+.poster-a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.card_section2{
+    
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.cardimg-b{
+    
+    background-color: rgb(219, 139, 139);
+padding-top: 50px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+.cardimg-a{
+    
+    background-color:#90909040 ;
+    padding-top: 25px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+
+.cardimg-c{
+
+    background-color: #90909040;
+    padding-top: 50px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+
+.cardimg-d{
+    
+    background-color: #90909040;
+    
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+
+.card-a{
+    width: 23%;
+    height: auto;
+    
+    border-radius: 13px;
+    background-color: rgb(243, 237, 237);
+}
+.pra-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.eg-9{
+    height: 40px;
+    width:auto;
+   margin-left: auto;
+}
+.card-A{
+    box-shadow:  0 28px 40px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    border-radius: 13px;
+    background-color: rgb(243, 237, 237);
+}
+.cardimg-P{
+    
+    background-color: #90909040;
+padding-top: 45px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+
+.cardimg-Q{
+    
+    background-color:#90909040 ;
+    padding-top: 10px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+.cardimg-r{
+
+    background-color: #90909040;
+    padding-top: 10px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+
+}
+.cardimg-s{
+    background-color: #90909040;
+    padding-bottom: 50px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+.header>th{
+    
+   
+}
+.table-2{
+    width: 100%;
+}
